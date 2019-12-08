@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\holkin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\holkin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DesignPaterns_Visitor.-1448072380.00" t="ExcludeRecursive" />
+    <e p="C:\Users\holkin\RiderProjects\DesignPaterns_Visitor" t="IncludeFlat">
+      <e p="DesignPaterns_Visitor" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DesignPaterns_Visitor.csproj" t="IncludeRecursive" />
+        <e p="Figure.cs" t="Include" />
+        <e p="IVisitor.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="DesignPaterns_Visitor.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DesignPaterns_Visitor.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

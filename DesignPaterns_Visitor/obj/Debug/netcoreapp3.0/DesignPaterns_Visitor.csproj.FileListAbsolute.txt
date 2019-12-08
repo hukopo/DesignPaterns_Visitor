@@ -1,0 +1,11 @@
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.exe
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.deps.json
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.runtimeconfig.json
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.runtimeconfig.dev.json
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.dll
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\bin\Debug\netcoreapp3.0\DesignPaterns_Visitor.pdb
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\obj\Debug\netcoreapp3.0\DesignPaterns_Visitor.csprojAssemblyReference.cache
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\obj\Debug\netcoreapp3.0\DesignPaterns_Visitor.AssemblyInfoInputs.cache
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\obj\Debug\netcoreapp3.0\DesignPaterns_Visitor.AssemblyInfo.cs
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\obj\Debug\netcoreapp3.0\DesignPaterns_Visitor.dll
+C:\Users\holkin\RiderProjects\DesignPaterns_Visitor\DesignPaterns_Visitor\obj\Debug\netcoreapp3.0\DesignPaterns_Visitor.pdb
